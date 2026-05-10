@@ -56,7 +56,7 @@ Licenses purchased before 2026-04-14 ("Legacy Licenses") include lifetime Upgrad
 
 Each license is bound to a single Machine ID. User may not share, copy, or install the license key on any additional machine.
 
-   (a) Rehost Allowance. User may request up to two (2) rehosts of the license to a new Machine ID per rolling 12-month period at no charge (for example, to accommodate hardware replacement, Windows reinstallation, or machine upgrades). Additional rehosts may be accommodated at Licensor's discretion.
+   (a) Rehost Allowance. User may request one (1) rehost of the license to a new Machine ID per rolling 24-month period at no charge (for example, to accommodate hardware replacement, Windows reinstallation, or machine upgrades). Additional rehosts may be accommodated at Licensor's discretion.
 
    (b) Proof. Licensor may request a brief written attestation from User that the prior Machine ID has been decommissioned or is no longer in use by User.
 
